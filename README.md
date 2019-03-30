@@ -2,4 +2,4 @@
 perf test for http://computer-database.gatling.io
 
 
-https://travis-ci.org/HITimran/gatling.svg?branch=master
+[![Build Status](https://travis-ci.com/HITimran/gatling.svg?branch=master)](https://travis-ci.com/HITimran/gatling)
