@@ -60,6 +60,11 @@
       <groupId>org.scala-lang</groupId>
       <artifactId>scala-library</artifactId>
     </dependency>
+    <dependency>
+      <groupId>io.github.clickscript</groupId>
+      <artifactId>clickscript_2.11</artifactId>
+      <version>0.2.0-2.1.7</version>
+    </dependency>
   </dependencies>
 
   <build>
